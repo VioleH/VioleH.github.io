@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-11-05T17:06:52.927Z</updated>
+  <updated>2022-11-07T12:16:10.320Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,20 +17,41 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>photo</title>
+    <link href="http://example.com/2022/11/07/photo/"/>
+    <id>http://example.com/2022/11/07/photo/</id>
+    <published>2022-11-07T12:14:44.000Z</published>
+    <updated>2022-11-07T12:16:10.320Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="image-20221107201541866.png" alt="image-20221107201541866"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;image-20221107201541866.png&quot; alt=&quot;image-20221107201541866&quot;&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>My New Post</title>
     <link href="http://example.com/2022/11/05/My-New-Post/"/>
     <id>http://example.com/2022/11/05/My-New-Post/</id>
     <published>2022-11-05T05:04:07.000Z</published>
-    <updated>2022-11-05T17:06:52.927Z</updated>
+    <updated>2022-11-07T12:12:58.473Z</updated>
     
-    <content type="html"><![CDATA[<p>啦啦啦啦</p><p><img src="WhiskyDeer.jpg" alt="WhiskyDeer"></p>]]></content>
+    <content type="html"><![CDATA[<p>啦啦啦啦</p><p><img src="WhiskyDeer.jpg" alt="WhiskyDeer"></p><h1 id=""><a href="#" class="headerlink" title=""></a></h1>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;啦啦啦啦&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;WhiskyDeer.jpg&quot; alt=&quot;WhiskyDeer&quot;&gt;&lt;/p&gt;
-</summary>
+&lt;h1 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h1&gt;</summary>
       
     
     
