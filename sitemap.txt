@@ -1,4 +1,3 @@
-http://example.com/2022/11/07/photo/
-http://example.com/2022/11/05/My-New-Post/
+http://example.com/2022/11/05/photo/
 http://example.com/2022/11/04/hello-world/
 http://example.com/
